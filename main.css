@@ -1,0 +1,38 @@
+*{
+    margin: 8px;
+    font-family: "Titillium Web", sans-serif;
+    text-decoration: none;
+    background-color: black;
+    box-sizing: border-box;
+    color: aqua;
+    
+}
+header{
+    display: flex;
+    border-bottom: 1px solid aqua;
+}
+.title-header{
+    font-size: 200%;
+    width: 50%;
+    padding-left: 33px;
+    color: aqua;
+    display: inline-block
+}
+.nav-bar{
+    text-align: right;
+
+}
+a{
+    color: #FFA76C;
+}
+.section0{
+    margin: 18px;
+    padding-left: 100px;
+    display: flex;
+    
+}
+.section1{
+    padding-top: 100px;
+    padding-left: 60px;
+
+}

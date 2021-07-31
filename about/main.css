@@ -1,0 +1,55 @@
+*{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+body{
+    background-image: url("/about/img/background-xlarge.jpg");
+    vertical-align: middle;
+    position: relative;
+    color: #30fffe
+}
+.nothing{
+    height: 133px;
+}
+.profile{
+    align-items: center;
+
+    align-self: center;
+    border: 1px solid aqua;
+    vertical-align: top;
+}
+.name{
+    font-size: 27px;
+    font-family: "Eletrolite" sans-serif;
+    color: #30fffe
+}
+.bio{
+    font-size: 25px;
+    font-family: cursive;
+    color: #30fffe
+}
+
+.section1{
+    display: block;
+    color: #30fffe
+}
+
+a{
+    text-decoration: none;
+    color: #30fffe
+}
+
+button {
+    text-decoration: none;
+    background-color: transparent;
+    color: #30fffe;
+    border: 2px solid #30fffe;
+    box-sizing: border-box;
+  }
+
+footer{
+    font-size: 200%;
+}
